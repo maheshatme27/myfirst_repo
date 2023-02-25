@@ -71,5 +71,5 @@ Workflow of Git
                  Here commit id will get created and the files present in this area are called as indexed file.	
 * Local repo/git repo : It is a location where version controlling happens and the files present here are called as committed files.
  				 
-
+exit
 
